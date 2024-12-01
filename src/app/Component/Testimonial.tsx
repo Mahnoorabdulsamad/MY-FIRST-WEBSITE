@@ -1,4 +1,4 @@
-import React from "react";
+
 import Image from "next/image";
 
 const Testimonial = () => {
@@ -36,10 +36,10 @@ const Testimonial = () => {
                   width={56}
                 />
                 <span className="font-semibold text-[16px]">
-                  {" "}
-                  James Nduku{" "}
+                  
+                  James Nduku
                   <h1 className="font-normal text-[16px]">
-                    {" "}
+                    
                     Software Developer
                   </h1>
                 </span>
@@ -68,7 +68,7 @@ const Testimonial = () => {
                   width={56}
                 />
                 <span className="font-semibold text-[16px]">
-                  {" "}
+                  
                   Erick Kipkemboi
                   <h1 className="font-normal text-[16px]">Scrum Master</h1>
                 </span>
@@ -97,8 +97,8 @@ const Testimonial = () => {
                   width={56}
                 />
                 <span className="font-semibold text-[16px]">
-                  {" "}
-                  Stephen Kerubo{" "}
+                  
+                  Stephen Kerubo
                   <h1 className="font-normal text-[16px]">UI/UX Designer</h1>
                 </span>
               </div>
@@ -106,7 +106,7 @@ const Testimonial = () => {
           </div>
         </div>
         <div className="flex justify-between items-center ml-[90px] mr-[90px]">
-          {" "}
+          
           <Image
             src={"/image/Slider Dots.png"}
             alt="dots"

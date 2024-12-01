@@ -1,4 +1,4 @@
-import React from "react";
+
 import Image from "next/image";
 
 const Hero = () => {
@@ -149,7 +149,7 @@ const Hero = () => {
             <div className="  flex  flex-col ml-52">
               <h1 className=" font-bold text-[40px] h-[48px] w-[72px]">+200</h1>
               <p className="h-[24px] w-[60px] text-[16px] font-normal ml-5">
-                {" "}
+                
                 Courses
               </p>
             </div>
@@ -163,7 +163,7 @@ const Hero = () => {
             <div className="flex flex-col  ">
               <h1 className="font-bold text-[40px] h-[48px] w-[72px]">370k</h1>
               <p className="h-[24px] w-[60px] text-[16px] font-normal ml-3">
-                {" "}
+                
                 Students
               </p>
             </div>

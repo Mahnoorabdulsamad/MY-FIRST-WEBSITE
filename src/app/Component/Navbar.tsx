@@ -1,4 +1,4 @@
-import React from "react";
+
 import Image from "next/image";
 
 const Navbar = () => {
@@ -7,7 +7,7 @@ const Navbar = () => {
       <div>
         <div className=" bg-[#F7F7F7] h-[54px] border-b-[1px]  border-black flex  justify-between gap-8 p-4 text-[14px] font-normal">
           <p className="ml-20   ">
-            Phone Number: 956 742 455 678 <span className="pl-1 pr-1"> | </span>{" "}
+            Phone Number: 956 742 455 678 <span className="pl-1 pr-1"> | </span>
             Email:info@ddsgnr.com
           </p>
 
