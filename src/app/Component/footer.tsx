@@ -53,21 +53,21 @@ const footer = () => {
         </div>
         <ul className=" h-[225px]  pt-36 mr-24  mx-24  text-[#000000] ml-24  w-1/3">
           <li className="  font-bold text-[16px] leading-6 pb-10 pt-10 h-[24px] ">
-            Resources{" "}
+            Resources
           </li>
           <li className=" pb-2 font-normal text-[14px] leading-[21px] ">
-            {" "}
-            Career{" "}
+            
+            Career
           </li>
           <li className=" pb-2 font-normal text-[14px] leading-[21px]">
             Resume
           </li>
           <li className=" pb-2 font-normal text-[14px] leading-[21px]">
-            {" "}
+            
             Learning
           </li>
           <li className=" pb-2 font-normal text-[14px] leading-[21px]">
-            Interview Preparation{" "}
+            Interview Preparation
           </li>
           <li className=" pb-2 font-normal text-[14px] leading-[21px]">Jobs</li>
         </ul>
@@ -79,7 +79,7 @@ const footer = () => {
             placeholder="Enter your email"
           />
           <button className=" h-[4 8px] w-[119px] border-black pr-[24px] pl-[24px] pt-[12px] pb-[12px] border-[1px]  rounded-md gap-16 text-[16px] font-normal">
-            Subscribe{" "}
+            Subscribe
           </button>
           <p className="h-[18px] w-[400px] text-[12px] mt-4 text-[#000000] leading-[18px]">
             By subscribing you agree to with our Privacy Policy
@@ -87,25 +87,25 @@ const footer = () => {
 
           <ul className=" h-[225px]   mr-24 text-[#000000] mt-24  w-1/3">
             <li className=" font-bold text-[16px] leading-6 pb-10  h-[24px] ">
-              {" "}
-              About Us{" "}
+              
+              About Us
             </li>
             <li className=" pb-2 font-normal text-[14px] leading-[21px] ">
-              Contact{" "}
+              Contact
             </li>
             <li className=" pb-2 font-normal text-[14px] leading-[21px] ">
-              {" "}
+              
               Help/Support
             </li>
             <li className=" pb-2 font-normal text-[14px] leading-[21px]">
               FAQ
             </li>
             <li className=" pb-2 font-normal text-[14px] leading-[21px]">
-              {" "}
-              Terms and Conditions{" "}
+              
+              Terms and Conditions
             </li>
             <li className=" pb-2 font-normal text-[14px] leading-[21px]">
-              {" "}
+              
               Partner
             </li>
           </ul>
